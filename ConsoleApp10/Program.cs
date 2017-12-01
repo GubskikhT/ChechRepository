@@ -10,6 +10,10 @@ namespace ConsoleApp10
     {
         static void Main(string[] args)
         {
+            int a = 10;
+            var list = new List<int>();
+            list.Add(a);
+            
         }
     }
 }
